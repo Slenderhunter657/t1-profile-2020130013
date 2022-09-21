@@ -1,0 +1,45 @@
+.cursor-cm{
+    cursor:context-menu;
+}
+.introM{
+    background-image: url("/assets/img/main.jpg");
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    height: 100vh;
+}
+.introU{
+    background-image: url("/assets/img/main.jpg");
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    height: 88vh;
+}
+.mainSec{
+    background-image: url("/assets/img/sec.jpg");
+    background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.custom-shape-rectangle{
+    height: 5px;
+    width: 300px;
+    background-color: midnightblue;
+    margin-left: auto;
+    margin-right: 0;
+}
+.custom-align-right{
+    margin-left: auto;
+    margin-right: 0;
+}
+.photo-image{
+    display: block;
+    width: auto;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
